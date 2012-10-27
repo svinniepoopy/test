@@ -1,0 +1,5 @@
+bunch of test utilities in C, C++, python, sh and other testable languages
+
+FILES:
+    - stringtest.py (tests efficiency of string concatenation using different 
+            methods in python)
